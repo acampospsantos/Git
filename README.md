@@ -30,6 +30,8 @@
 - **git push -u origin main**: *Empurrar o Commit de fato pro repositório*
 - **git pull**: *puxa todas as alterações feitas no repositório do Github para o seu repositório local*
 - **git clone ssh://git@github.com/[username]/[repository-name].git**: *Cria uma cópia local de um repositório remoto*
-- **git rm -r [nomeArquivo]**: *Remove o arquivo/pasta nomeado*
+- **git rm [nomeArquivo]**: *Remove o arquivo/pasta nomeado*
+- **git log**: *Visualizar histórico*
+- git log --stat: *Visuliza histórico de forma mais completa*
 
 **ME FALTA ENTENDER BRANCH E MERGE (E SEUS COMANDOS)**
