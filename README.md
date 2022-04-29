@@ -32,6 +32,6 @@
 - **git clone ssh://git@github.com/[username]/[repository-name].git**: *Cria uma cópia local de um repositório remoto*
 - **git rm [nomeArquivo]**: *Remove o arquivo/pasta nomeado*
 - **git log**: *Visualizar histórico*
-- git log --stat: *Visuliza histórico de forma mais completa*
+- **git log --stat**: *Visuliza histórico de forma mais completa*
 
 **ME FALTA ENTENDER BRANCH E MERGE (E SEUS COMANDOS)**
