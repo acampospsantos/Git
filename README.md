@@ -22,13 +22,13 @@
 - **cd [caminhoDaPasta]**: *irá fazer com que você navegue da pasta atual para uma determinada pasta*
 - **git init**: *inicializa(cria) o repositório*
 - **git add [nomeArquivo]**: *Coloca o arquivo/pasta nomeado na área de Sttaging(estado entre working diretory e repository)*
-- **git add .**: *Coloca todos arquivo na área de Sttaging(estado entre working diretory e repository)*
+- **git add . **: *Coloca todos arquivo na área de Sttaging(estado entre working diretory e repository)*
 - **git status**: *Verifica o estado dos arquivos/diretórios*
 - **git commit -m "[primeiroCommit]"**: *Comando que faz de fato o commit do arquivo*
 - **git branch -M "main"**: *para alterar o nome da branch principal de master para main(boa prática)*
 - **git remote add origin [link do repositório]**: *Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github*
 - **git push -u origin main**: *Empurrar o Commit de fato pro repositório*
-- **git pull**: *puxa todas as alterações feitas no repositório do Github para o seu repositório local*
+- **git pull**: *Puxa todas as alterações feitas no repositório do Github(remoto) para o seu repositório local*
 - **git clone ssh://git@github.com/[username]/[repository-name].git**: *Cria uma cópia local de um repositório remoto*
 - **git rm [nomeArquivo]**: *Remove o arquivo/pasta nomeado*
 - **git log**: *Visualizar histórico*
