@@ -22,7 +22,7 @@
 - **cd [caminhoDaPasta]**: *irá fazer com que você navegue da pasta atual para uma determinada pasta*
 - **git init**: *inicializa(cria) o repositório*
 - **git add [nomeArquivo]**: *Coloca o arquivo/pasta nomeado na área de Sttaging(estado entre working diretory e repository)*
-- - **git add .**: *Coloca todos arquivo na área de Sttaging(estado entre working diretory e repository)*
+- **git add .**: *Coloca todos arquivo na área de Sttaging(estado entre working diretory e repository)*
 - **git status**: *Verifica o estado dos arquivos/diretórios*
 - **git commit -m "[primeiroCommit]"**: *Comando que faz de fato o commit do arquivo*
 - **git branch -M "main"**: *para alterar o nome da branch principal de master para main(boa prática)*
