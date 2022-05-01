@@ -5,7 +5,7 @@
 2. Passo: **git init** --> `Inicializa o Repositório`
 3. Passo: **git add .** --> `Coloca todos arquivo na área de Sttaging(estado entre working diretory e repository)`
 4. Passo: **git commit -m "[nomeDoCommit]"** --> `para de fato dar o commit no repositório`
-5. Passo: **git remote add origin https://github.com/[nomeUsuário]/[nomeRepositório].git** --> `Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github`
+5. Passo: **git remote add origin https://github.com/[nomeUsuário]/[nomeRepositório].git** --> `Para passar o commit do meu repositório local(da minha máquina) para um repositório na plataforma do Github`
 6. Passo: **git branch -M main** --> `para alterar o nome da branch principal de master para main`
 7. Passo: **git push -u origin main** --> `Empurrar o Commit de fato pro repositório`
 
@@ -21,18 +21,18 @@
 ## Comandos
 - **cd [caminhoDaPasta]**: *irá fazer com que você navegue da pasta atual para uma determinada pasta*
 - **git init**: *inicializa(cria) o repositório*
-- **git add [nomeArquivo]**: *Coloca o arquivo/pasta nomeado na área de Sttaging(estado entre working diretory e repository)*
-- **git add .**: *Coloca todos arquivo na área de Sttaging(estado entre working diretory e repository)*
-- **git commit -m "[primeiroCommit]"**: *Comando que faz de fato o commit do arquivo*
+- **git add [nomeArquivo]**: *Coloca o arquivo/pasta na área de Sttaging(estado entre working diretory e repository)*
+- **git add .**: *Coloca todos arquivos na área de Sttaging(estado entre working diretory e repository)*
+- **git commit -m "[primeiroCommit]"**: *Comando que faz do commit do arquivo*
 - **git branch -M "main"**: *para alterar o nome da branch principal de master para main(boa prática)*
-- **git remote add origin https://github.com/[nomeUsuário]/[nomeRepositório].git**: *Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github*
+- **git remote add origin https://github.com/[nomeUsuário]/[nomeRepositório].git**: *Para passar o commit do meu repositório local(da minha máquina) para um repositório na plataforma do Github*
 - **git push -u origin main**: *Empurrar o Commit de fato pro repositório*
 - **git pull**: *Puxa todas as alterações feitas no repositório do Github(remoto) para o seu repositório local*
 - **git clone https://github.com/[nomeUsuário]/[nomeRepositório].git**: *Cria uma cópia local de um repositório remoto*
 - **git rm [nomeArquivo]**: *Remove o arquivo/pasta nomeado*
 
 
-**ME FALTA ENTENDER BRANCH E MERGE (E SEUS COMANDOS)**
+**ME FALTA ENTENDER BRANCH E MERGE (E SEUS COMANDOS) + PULL REQUEST**
 
 ### Comandos suporte
 - **git status**: *Verifica o estado dos arquivos/diretórios*
