@@ -1,7 +1,7 @@
 # Meu manual Git (Comandos)
 
 ## (Cria e posta arquivo)
-1. Passo: **cd [CaminhoDaPasta]** --> `faz com que se navegue da pasta atual para uma determinada pasta`
+1. Passo: **cd [CaminhoDaPasta]** --> `faz com que se navegue da pasta atual para uma determinada pasta` 
 2. Passo: **git init** --> `Inicializa o Repositório`
 3. Passo: **git add .** --> `Coloca todos arquivo na área de Sttaging(estado entre working diretory e repository)`
 4. Passo: **git commit -m "[nomeDoCommit]"** --> `para de fato dar o commit no repositório`
