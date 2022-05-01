@@ -28,7 +28,7 @@
 - **git remote add origin https://github.com/[nomeUsuário]/[nomeRepositório].git**: *Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github*
 - **git push -u origin main**: *Empurrar o Commit de fato pro repositório*
 - **git pull**: *Puxa todas as alterações feitas no repositório do Github(remoto) para o seu repositório local*
-- **git clone ssh://git@github.com/[username]/[repository-name].git**: *Cria uma cópia local de um repositório remoto*
+- **git clone https://github.com/[nomeUsuário]/[nomeRepositório].git**: *Cria uma cópia local de um repositório remoto*
 - **git rm [nomeArquivo]**: *Remove o arquivo/pasta nomeado*
 
 
