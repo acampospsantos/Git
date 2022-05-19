@@ -1,5 +1,14 @@
 # Meu manual Git (Comandos)
 
+## (Configuração Inicial)
+Levando em conta que seu Git já está em seu sistema, seu ambiente git deve ser personalizado - (só deve ser feito uma vez por computador)
+A primeira coisa que você deve fazer ao instalar Git é configurar seu nome de usuário e endereço de e-mail. Isto é importante porque cada commit usa esta informação, e ela é carimbada de forma imutável nos commits que você começa a criar:
+1. Passo: **git config --global user.name "[seuUser]"**: *Configura seu nome de usuário*
+2. Passo: **git config --global user.email [seuEmail]**: *Configura seu endereço de e-mail*
+3. Passo: **git config --list**: *Lista todas as configurações que o Git consegue encontrar* --> Comando só pra confirmar
+
+&nbsp;
+
 ## (Cria e posta arquivo)
 1. Passo: **cd [CaminhoDaPasta]** --> `faz com que se navegue da pasta atual para uma determinada pasta` 
 2. Passo: **git init** --> `Inicializa o Repositório`
@@ -37,5 +46,6 @@
 
 ### Comandos suporte
 - **git status**: *Verifica o estado dos arquivos/diretórios*
+- **git config --list**: *Lista todas as configurações que o Git consegue encontrar*
 - **git log**: *Visualizar histórico*
 - **git log --stat**: *Visuliza histórico de forma mais completa*
