@@ -44,7 +44,7 @@ A primeira coisa que se deve fazer ao instalar Git é configurar seu nome de usu
 
 **ME FALTA ENTENDER BRANCH E MERGE (E SEUS COMANDOS) + PULL REQUEST**
 
-### Comandos suporte
+## Comandos suporte
 - **git status**: *Verifica o estado dos arquivos/diretórios*
 - **git config --list**: *Lista todas as configurações que o Git consegue encontrar*
 - **git log**: *Visualizar histórico*
