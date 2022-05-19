@@ -1,7 +1,7 @@
 # Meu manual Git (Comandos)
 
 ## (Configuração Inicial)
-Levando em conta que seu Git já está em seu sistema, seu ambiente git deve ser personalizado - (só deve ser feito uma vez por computador)
+Levando em conta que seu Git já está em seu sistema, seu ambiente git deve ser personalizado - (só deve ser feito uma vez por computador). 
 A primeira coisa que se deve fazer ao instalar Git é configurar seu nome de usuário e endereço de e-mail. Isso é essencial, pois cada commit usa esta informação, e ela fica registrada nos commits que o usuário começa a criar:
 1. Passo: **git config --global user.name "[seuUser]"**: *Configura seu nome de usuário*
 2. Passo: **git config --global user.email [seuEmail]**: *Configura seu endereço de e-mail*
