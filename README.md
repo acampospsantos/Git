@@ -30,6 +30,7 @@
 - **git pull**: *Puxa todas as alterações feitas no repositório do Github(remoto) para o seu repositório local*
 - **git clone https://github.com/[nomeUsuário]/[nomeRepositório].git**: *Cria uma cópia local de um repositório remoto*
 - **git rm [nomeArquivo]**: *Remove o arquivo/pasta nomeado*
+- **git reset HEAD~1**: *Desfaz o último commit feito*
 
 
 **ME FALTA ENTENDER BRANCH E MERGE (E SEUS COMANDOS) + PULL REQUEST**
